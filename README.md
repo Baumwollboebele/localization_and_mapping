@@ -3,8 +3,8 @@ This repository contains jupyter notebooks elaborating algorithms that ultimatel
 All examples are made after the explanations from: https://www.kalmanfilter.net
 
 Alpha-Beta-Gamma Filter:
-* Part1: Weighting a gold bar 
-* Part2: Tracking a constant velocity aircraft in one dimension
+* Part 1: Weighting a gold bar 
+* Part 2: Tracking a constant velocity aircraft in one dimension
 * Part 3 Tracking an accelerating aircraft in one dimension
 
 Kalman Filtr:
