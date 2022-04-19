@@ -7,7 +7,7 @@ Alpha-Beta-Gamma Filter:
 * Part 2: Tracking a constant velocity aircraft in one dimension
 * Part 3 Tracking an accelerating aircraft in one dimension
 
-Kalman Filtr:
+Kalman Filter:
 * Part 4: One-dimensional Kalman Filter without process noise
 * Part 5: One-Dimensional Kalman Filterwith process noise
 * Part 6: Estimating The Temperature Of A Heating Liquid
