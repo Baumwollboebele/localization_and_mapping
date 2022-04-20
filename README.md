@@ -14,6 +14,6 @@ Kalman Filter 1D:
 * Part 5: One-Dimensional Kalman Filterwith process noise
 * Part 6: Estimating The Temperature Of A Heating Liquid
 
-Kalman Filter 3D:
-* Part 7: Kalman Filter 3D
+Kalman Filter Multidimensional:
+* Part 7: Kalman Filter Multidimensional
 
